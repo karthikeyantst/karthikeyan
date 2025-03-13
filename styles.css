@@ -1,0 +1,118 @@
+.carousel-inner {
+    height: 700px; 
+    width: 100%;
+} 
+.carousel-item img {
+    object-fit: cover; 
+    height: 100%; 
+    width: 100%; 
+}
+.carousel-inner {
+    max-width: 1500px;
+    margin: 0 auto; 
+}
+.margin{
+    padding-left: 100px;
+}
+h3{
+    padding-top: 200px;
+    font-weight:bolder;
+    font-size: 50px;
+
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn1
+{
+    border-radius: 20px;
+    padding:10px 50px;
+    font-size:20px;
+    margin-top: 20px;
+
+    
+}
+
+body{
+    background-color: gray;
+}
+.card-body{
+   margin: 10px;
+}
+.product {
+    padding-top: 50px;
+  }
+  
+  .card {
+    margin-bottom: 30px;
+    
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card img {
+    border-radius: 10px;
+  }
+  
+  .card h6 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 15px;
+  }
+  
+  .card p {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .container {
+    max-width: 1200px;
+  }
+  
+  .row {
+    margin-bottom: 40px;
+  }
+  .Contact {
+    background-color:gray;
+    padding: 50px 0;
+  }
+  
+  .Contact h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .Contact p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 40px;
+  }
+  
+  .Contact .form-control {
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+  }
+  
+  .Contact .btn {
+    padding: 12px 30px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+  }
+  
+  .Contact .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: white;
+  }
+  
+  .Contact .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+ 
+  
